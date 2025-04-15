@@ -7,9 +7,6 @@ class Program41 {
     }
 }
  // Program 42: Check Alphabet, Digit, or Special Character
- 
- 
- 
 class Program42 {
     static void Main() {
         char ch = '$';
@@ -22,9 +19,6 @@ class Program42 {
     }
 }
  // Program 43: Count Frequency of Characters in String
- 
- 
- 
 class Program43 {
     static void Main() {
         string str = "hello";

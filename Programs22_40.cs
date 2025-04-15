@@ -25,9 +25,6 @@ class Program23 {
     }
 }
 ✅ Program 24: Count Vowels in a String
-csharp
-Copy
-Edit
 class Program24 {
     static void Main() {
         string str = "Hello World";
@@ -39,9 +36,6 @@ class Program24 {
     }
 }
 ✅ Program 25: Reverse a String
-csharp
-Copy
-Edit
 class Program25 {
     static void Main() {
         string str = "developer";
@@ -51,9 +45,6 @@ class Program25 {
     }
 }
 ✅ Program 26: Check Palindrome String
-csharp
-Copy
-Edit
 class Program26 {
     static void Main() {
         string str = "madam";
@@ -62,9 +53,6 @@ class Program26 {
     }
 }
 ✅ Program 27: Sum of Digits of a Number
-csharp
-Copy
-Edit
 class Program27 {
     static void Main() {
         int num = 1234, sum = 0;
@@ -76,9 +64,6 @@ class Program27 {
     }
 }
 ✅ Program 28: Find ASCII Value of a Character
-csharp
-Copy
-Edit
 class Program28 {
     static void Main() {
         char ch = 'A';
@@ -86,9 +71,6 @@ class Program28 {
     }
 }
 ✅ Program 29: Convert Celsius to Fahrenheit
-csharp
-Copy
-Edit
 class Program29 {
     static void Main() {
         double c = 25;
@@ -97,9 +79,6 @@ class Program29 {
     }
 }
 ✅ Program 30: Convert Fahrenheit to Celsius
-csharp
-Copy
-Edit
 class Program30 {
     static void Main() {
         double f = 98.6;
@@ -108,9 +87,6 @@ class Program30 {
     }
 }
 ✅ Program 31: Print All Even Numbers from 1 to 100
-csharp
-Copy
-Edit
 class Program31 {
     static void Main() {
         for (int i = 1; i <= 100; i++) {
@@ -120,9 +96,6 @@ class Program31 {
     }
 }
 ✅ Program 32: Print All Odd Numbers from 1 to 100
-csharp
-Copy
-Edit
 class Program32 {
     static void Main() {
         for (int i = 1; i <= 100; i++) {
@@ -132,9 +105,6 @@ class Program32 {
     }
 }
 ✅ Program 33: Find Power of a Number
-csharp
-Copy
-Edit
 class Program33 {
     static void Main() {
         int baseNum = 2, exp = 4;
@@ -143,9 +113,6 @@ class Program33 {
     }
 }
 ✅ Program 34: Find Square Root of a Number
-csharp
-Copy
-Edit
 class Program34 {
     static void Main() {
         int num = 25;
@@ -154,9 +121,6 @@ class Program34 {
     }
 }
 ✅ Program 35: Count Words in a Sentence
-csharp
-Copy
-Edit
 class Program35 {
     static void Main() {
         string sentence = "I am a C# developer";
@@ -165,9 +129,6 @@ class Program35 {
     }
 }
 ✅ Program 36: Check Armstrong Number (3 digits)
-csharp
-Copy
-Edit
 class Program36 {
     static void Main() {
         int num = 371, temp = num, sum = 0;
